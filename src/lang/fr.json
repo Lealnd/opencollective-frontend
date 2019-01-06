@@ -653,7 +653,7 @@
   "user.collective.memberOf.collective.fundraiser.title": "J'ai aidé à collecter des fonds pour {n, plural, one {ce collectif} other {ces collectifs}}",
   "user.collective.memberOf.collective.fundraiser.LoggedInDescription": "Partage l'URL qui se trouve dans l'email de confirmation de réception du don pour savoir combien d'argent tu as aider à récolter pour chaque collectif. (Tu peux aussi cliquer sur n'importe quel collectif auquel tu contribues sur cette page. On ajoutera ton lien unique dans l'URL que tu peux copier coller et partager.)",
   "user.collective.memberOf.collective.follower.title": "Je suis {n, plural, one {ce collectif} other {ces collectifs}}",
-  "organization.collective.memberOf.collective.host.title": "Nous hébergeons {n, plural, one {ce collectif} other {{n} collectives}}",
+  "organization.collective.memberOf.collective.host.title": "Nous hébergeons {n, plural, one {ce collectif} other {{n} collectifs}}",
   "organization.collective.memberOf.collective.admin.title": "Nous dirigeons {n, plural, one {ce collectif} other {ces collectifs}}",
   "organization.collective.memberOf.collective.member.title": "Nous sommes membre de {n, plural, one {ce collectif} other {ces collectifs}}",
   "organization.collective.memberOf.collective.backer.title": "Nous supportons {n, plural, one {ce collectif} other {ces collectifs}}",
